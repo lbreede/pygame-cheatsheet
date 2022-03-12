@@ -1,0 +1,5 @@
+# game setup
+WIDTH = 960
+HEIGHT = 640
+FPS = 60
+TILESIZE = 64

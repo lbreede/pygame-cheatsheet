@@ -1,0 +1,1118 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"force_tilesize"
+			],
+			[
+				"sca",
+				"scale"
+			],
+			[
+				"import",
+				"import_folder"
+			],
+			[
+				"attack_",
+				"attack_cooldown"
+			],
+			[
+				"a",
+				"attack_time"
+			],
+			[
+				"get_t",
+				"get_ticks"
+			],
+			[
+				"atta",
+				"attacking"
+			],
+			[
+				"surfa",
+				"surface_list"
+			],
+			[
+				"su",
+				"surface_list"
+			],
+			[
+				"conv",
+				"convert_alpha"
+			],
+			[
+				"ro",
+				"row_idx"
+			],
+			[
+				"get",
+				"get_size"
+			],
+			[
+				"flo",
+				"floor_offset_pos"
+			],
+			[
+				"fl",
+				"floor_rect"
+			],
+			[
+				"half",
+				"half_height"
+			],
+			[
+				"h",
+				"half_width"
+			],
+			[
+				"spr",
+				"sprite"
+			],
+			[
+				"scal",
+				"scale2x"
+			],
+			[
+				"di",
+				"display_surface"
+			],
+			[
+				"deb",
+				"debug_surf"
+			],
+			[
+				"dis",
+				"display_surface"
+			],
+			[
+				"rec",
+				"rectangle"
+			],
+			[
+				"q",
+				"quit"
+			],
+			[
+				"Po",
+				"PokemonSpecies"
+			],
+			[
+				"DIREC",
+				"DIRECTORY"
+			],
+			[
+				"writ",
+				"write_file"
+			],
+			[
+				"w",
+				"write_json"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"b",
+				"bad_words="
+			],
+			[
+				"C",
+				"Controller"
+			],
+			[
+				"Mode",
+				"ModelBasic"
+			],
+			[
+				"show",
+				"show_items"
+			],
+			[
+				"read",
+				"read_items"
+			],
+			[
+				"is",
+				"is_circular_prime"
+			],
+			[
+				"ma",
+				"math_functions"
+			],
+			[
+				"name",
+				"name_label"
+			],
+			[
+				"Q",
+				"QPushButton"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"s",
+				"search_temp"
+			],
+			[
+				"sea",
+				"search_lineEdit"
+			],
+			[
+				"so",
+				"sorted_list1"
+			],
+			[
+				"sort",
+				"sort_data"
+			],
+			[
+				"extr",
+				"extract_data"
+			],
+			[
+				"exp",
+				"export_yaml"
+			],
+			[
+				"log",
+				"log_trainer"
+			],
+			[
+				"ev",
+				"evolves_at_level"
+			],
+			[
+				"evo",
+				"evolves_into"
+			],
+			[
+				"i",
+				"ifmain"
+			],
+			[
+				"ass",
+				"assertIsInstance"
+			],
+			[
+				"dev",
+				"dev_pick_up_date"
+			],
+			[
+				"fi",
+				"film_size"
+			],
+			[
+				"sh",
+				"shot_at_iso"
+			],
+			[
+				"camer",
+				"camera_scores"
+			],
+			[
+				"ca",
+				"camera_scores"
+			],
+			[
+				"cre",
+				"create_dummy"
+			],
+			[
+				"le",
+				"lens_scores"
+			],
+			[
+				"load",
+				"load_json"
+			],
+			[
+				"if",
+				"ifmain"
+			],
+			[
+				"d",
+				"dump_json"
+			],
+			[
+				"save",
+				"save_movie_based_on_title_recommendations"
+			],
+			[
+				"sav",
+				"save_popular_movies"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"vo",
+				"vote_average"
+			],
+			[
+				"mon",
+				"monthly_schedule(…)"
+			],
+			[
+				"emp",
+				"emp_1"
+			],
+			[
+				"imp",
+				"import patch"
+			],
+			[
+				"tes",
+				"test_apply_raise"
+			],
+			[
+				"t",
+				"test_username"
+			],
+			[
+				"e",
+				"emp_2"
+			],
+			[
+				"app",
+				"apply_raise()"
+			],
+			[
+				"se",
+				"self.assertEqual"
+			],
+			[
+				"u",
+				"unittest.main"
+			],
+			[
+				"f",
+				"fullname()"
+			],
+			[
+				"r",
+				"raise_amount"
+			],
+			[
+				"Emplo",
+				"Employee:"
+			],
+			[
+				"unit",
+				"unittest.TestCase"
+			],
+			[
+				"coun",
+				"count_to_twenty"
+			],
+			[
+				"li",
+				"linelist"
+			],
+			[
+				"P",
+				"PyCalcCtrl"
+			],
+			[
+				"QG",
+				"QGridLayout"
+			],
+			[
+				"eva",
+				"evaluateExpression"
+			],
+			[
+				"Py",
+				"PyCalcCtrl"
+			],
+			[
+				"QP",
+				"QPushButton"
+			],
+			[
+				"_cre",
+				"_createButtons"
+			],
+			[
+				"QL",
+				"QLineEdit"
+			],
+			[
+				"re",
+				"result_1"
+			],
+			[
+				"p",
+				"part_1"
+			],
+			[
+				"nor",
+				"north_waypoint"
+			],
+			[
+				"no",
+				"north_waypoint"
+			],
+			[
+				"eas",
+				"east_waypoint"
+			],
+			[
+				"m",
+				"my_list"
+			],
+			[
+				"new",
+				"new_layout_string"
+			],
+			[
+				"adj",
+				"adjacent"
+			],
+			[
+				"ex",
+				"examples"
+			],
+			[
+				"o",
+				"one_jolt_diff"
+			],
+			[
+				"da",
+				"day03_example"
+			],
+			[
+				"nu",
+				"numbers"
+			],
+			[
+				"ba",
+				"back_from_msgpack"
+			],
+			[
+				"gu",
+				"guess_letter"
+			],
+			[
+				"g",
+				"guess_letter"
+			],
+			[
+				"pri",
+				"print_hangman"
+			],
+			[
+				"ret",
+				"render_template"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"pr",
+				"process_data"
+			],
+			[
+				"id",
+				"id_list"
+			],
+			[
+				"for",
+				"formatted_txt"
+			],
+			[
+				"vali",
+				"valid_one"
+			],
+			[
+				"cal",
+				"calc_middle_score"
+			],
+			[
+				"find",
+				"find_adjacent"
+			],
+			[
+				"valley_",
+				"valley_val"
+			],
+			[
+				"v",
+				"valley_pos"
+			],
+			[
+				"ra",
+				"rad1_right"
+			],
+			[
+				"rad",
+				"rad1_left"
+			],
+			[
+				"SE",
+				"SEVEN_SEGMENT_DISPLAY"
+			],
+			[
+				"reve",
+				"reverse_six"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "code/support.py",
+			"settings":
+			{
+				"buffer_size": 697,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Build With: Python3"
+			],
+			[
+				"asm",
+				"Set Syntax: P3 Assembly"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"UI sele",
+				"UI: Select Color Scheme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ui select",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/My Drive/Code/pokemon",
+		"/G/My Drive/Code/pokemon/code"
+	],
+	"file_history":
+	[
+		"/G/My Drive/Code/pokemon/code/main.py",
+		"/C/Users/lbreede/Documents/houdini19.0/tool.pref",
+		"/C/Users/lbreede/Documents/houdini19.0/QtWebEngine/user_prefs.json",
+		"/C/Users/lbreede/Desktop/anno.py",
+		"/C/Users/lbreede/Documents/houdini19.0/toolbar/shelf_tool_assets.json",
+		"/G/My Drive/Code/pokemon/code/settings.py",
+		"/G/My Drive/Code/pokemon/code/support.py",
+		"/G/My Drive/Code/pokemon/code/tile.py",
+		"/G/My Drive/Code/pokemon/code/player.py",
+		"/G/My Drive/Code/pokemon/code/level.py",
+		"/G/My Drive/Code/pokemon/.gitignore",
+		"/G/My Drive/Code/pokemon/map/map_FloorBlocks.csv",
+		"/G/My Drive/Code/pokemon/pokemon.sublime-workspace",
+		"/C/Users/lbreede/AppData/Roaming/Sublime Text/Packages/Terminal/Terminal.sublime-settings",
+		"/G/My Drive/Code/pokemon/tile.py",
+		"/G/My Drive/Code/pokemon/graphics/test/rock.png",
+		"/G/My Drive/Code/pokemon/main.py",
+		"/G/My Drive/Code/pokemon/level.py",
+		"/G/My Drive/Code/pokemon/debug.py",
+		"/G/My Drive/Code/pokemon/settings.py",
+		"/G/My Drive/Code/pokemon/pokemon.sublime-project",
+		"/G/My Drive/Code/pokemon_clone_python/Tutorial 3 - Camera and Simple Collision Detection/main.py",
+		"/C/Users/lbreede/AppData/Local/Temp/Rar$DIa19632.23671/main.py",
+		"/G/My Drive/Code/pokemon_clone_python/Tutorial 1 - Set Up/main.py",
+		"/G/My Drive/Code/pokemon_clone_python/Tutorial 1 - Set Up/game.py",
+		"/G/My Drive/Code/pokemon_clone_python/Tutorial 3 - Camera and Simple Collision Detection/player.py",
+		"/G/My Drive/Code/pykemon/main.py",
+		"/G/My Drive/Code/pokemon_clone_python/Tutorial 2 - Sprites and Graphics/main.py",
+		"/G/My Drive/Code/pokemon/trainer.py",
+		"/G/My Drive/Code/pokemon/item.py",
+		"/G/My Drive/Code/pokemon/pokemon.py",
+		"/G/My Drive/Code/pokemon2/pokemon.py",
+		"/G/My Drive/Code/pokemon/pokedex.log",
+		"/G/My Drive/Code/pokemon-battle/pokemon.py",
+		"/G/My Drive/Code/pokemon_older/pokemon.py",
+		"/G/My Drive/Code/pokemon/constants.py",
+		"/G/My Drive/Code/pokemon/pokedex.py",
+		"/G/My Drive/Code/pokemon/pokemon.log",
+		"/G/My Drive/Code/pokemon/trainer.log",
+		"/G/My Drive/Code/pokemon/view.py",
+		"/G/My Drive/Code/pokemon/controller.py",
+		"/G/My Drive/Code/weather/model.py",
+		"/G/My Drive/Code/weather/controller.py",
+		"/G/My Drive/Code/pokemon/pokedex/pokemon/pokemon_5.json",
+		"/G/My Drive/Code/pokemon/pokedex/item/item_5.json",
+		"/G/My Drive/Code/corey-schafer/unit-testing/employee.py",
+		"/G/My Drive/Code/pyqt-menu/view.py",
+		"/G/My Drive/Code/pyqt-menu/main.py",
+		"/C/Users/lbreede/Desktop/www/index.html",
+		"/C/Users/lbreede/Desktop/www/styles.css",
+		"/C/Users/lbreede/Desktop/www/about.html",
+		"/C/Users/lbreede/Desktop/missie.py",
+		"/G/My Drive/Code/wordle/solve.py",
+		"/G/My Drive/Code/mCoding/auto-tests/tests/test_math.py",
+		"/G/My Drive/Code/corey-schafer/logging-exercise/employee.py",
+		"/G/My Drive/Code/corey-schafer/oop/oop.py",
+		"/G/My Drive/Code/mvc/model_view_controller.py",
+		"/C/Users/lbreede/Desktop/mvc/main.py",
+		"/C/Users/lbreede/Desktop/mvc/controller.py",
+		"/C/Users/lbreede/Desktop/mvc/view.py",
+		"/C/Users/lbreede/Desktop/mvc/model.py",
+		"/C/Users/lbreede/Desktop/mvc/basic_backend.py",
+		"/C/Users/lbreede/Desktop/mvc/model_view_controller.py",
+		"/C/Users/lbreede/Desktop/mvc/mvc_exceptions.py",
+		"/G/My Drive/Code/twt/weather/model.py",
+		"/G/My Drive/Code/twt/weather/view.py",
+		"/G/My Drive/Code/twt/weather/controller.py",
+		"/G/My Drive/Code/project-euler/python/p029.py",
+		"/G/My Drive/Code/project-euler/python/p035.py",
+		"/G/My Drive/Code/project-euler/python/utils/math_functions.py",
+		"/G/My Drive/Code/twt/weather/main.py",
+		"/G/My Drive/Code/3d_game/main.py",
+		"/G/My Drive/Code/project-euler/python/p079.py",
+		"/G/My Drive/Code/project-euler/python/p050.py",
+		"/G/My Drive/Code/project-euler/python/p048.py",
+		"/G/My Drive/Code/project-euler/python/p044.py",
+		"/G/My Drive/Code/project-euler/python/p043.py",
+		"/G/My Drive/Code/project-euler/python/p042.py",
+		"/G/My Drive/Code/project-euler/python/p039.py",
+		"/G/My Drive/Code/project-euler/python/p036.py",
+		"/G/My Drive/Code/project-euler/python/p034.py",
+		"/G/My Drive/Code/project-euler/python/p031.py",
+		"/G/My Drive/Code/project-euler/python/p030.py",
+		"/G/My Drive/Code/project-euler/python/p025.py",
+		"/G/My Drive/Code/project-euler/python/p022.py",
+		"/G/My Drive/Code/project-euler/python/p020.py",
+		"/G/My Drive/Code/project-euler/python/p019.py",
+		"/G/My Drive/Code/project-euler/python/p017.py",
+		"/G/My Drive/Code/project-euler/python/p016.py",
+		"/G/My Drive/Code/logistic-map/main.py",
+		"/G/My Drive/Code/pyfetch/pyfetch.py",
+		"/G/My Drive/Code/project-euler/python/p001.py",
+		"/G/My Drive/Code/project-euler/python/p002.py",
+		"/G/My Drive/Code/project-euler/python/p003.py",
+		"/G/My Drive/Code/project-euler/python/p004.py",
+		"/G/My Drive/Code/project-euler/python/p005.py",
+		"/G/My Drive/Code/project-euler/python/p006.py",
+		"/G/My Drive/Code/project-euler/python/p007.py",
+		"/G/My Drive/Code/project-euler/python/p008.py",
+		"/G/My Drive/Code/project-euler/python/p009.py",
+		"/G/My Drive/Code/project-euler/python/p010.py",
+		"/G/My Drive/Code/project-euler/python/p011.py",
+		"/G/My Drive/Code/project-euler/python/p012.py",
+		"/G/My Drive/Code/project-euler/python/p013.py",
+		"/G/My Drive/Code/project-euler/python/p014.py",
+		"/G/My Drive/Code/assembler/assembler.py",
+		"/G/My Drive/Code/my_vfx_shots/myVfxShots.py",
+		"/G/My Drive/Code/wordle/wordle.py",
+		"/G/My Drive/Code/twt/weather/weather.py",
+		"/G/My Drive/Code/pokemon/yamlpokedex/pokedex.yaml",
+		"/G/My Drive/Code/pokemon/yamlpokedex/yamlpokedex.log",
+		"/G/My Drive/Code/pokemon/yamlpokedex/yamlpokedex.py",
+		"/C/Users/lbreede/Desktop/test.py",
+		"/G/My Drive/Code/pokemon/yamlpokedex/pokedex.json",
+		"/G/My Drive/Code/pokemon/requirements.txt",
+		"/C/Users/lbreede/AppData/Local/Programs/Python/Python39/Lib/site-packages/pokebase/loaders.py",
+		"/C/Users/lbreede/AppData/Local/Programs/Python/Python39/Lib/site-packages/pokebase/api.py",
+		"/G/My Drive/Code/missie-run/data.py",
+		"/C/Users/lbreede/AppData/Roaming/Sublime Text/Packages/Anaconda/README.md",
+		"/G/My Drive/Code/pokemon/pokedex.toml",
+		"/G/My Drive/Code/pokemon/pokedex.yaml",
+		"/G/My Drive/Code/pokemon/pokedex.json",
+		"/G/My Drive/Code/pokemon/pokedex_backup.py",
+		"/C/Users/lbreede/Desktop/test/test.py",
+		"/G/My Drive/Code/cache-cleanup/secrets_example.py",
+		"/G/My Drive/Code/cache-cleanup/constants.py",
+		"/G/My Drive/Code/cache-cleanup/secrets.py",
+		"/G/My Drive/Code/cache-cleanup/perform_cleanup.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 148.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"layout",
+			"'",
+			"pokemon",
+			"logging",
+			"32",
+			"Pokemon",
+			"data, path, id_or_name",
+			"blue",
+			" ",
+			"class",
+			"('--------------------------------------------------------------')",
+			")\n",
+			"city",
+			")\n",
+			"pokedex",
+			"=",
+			"test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"logger",
+			"id_or_name, path, data",
+			"self.pokedex",
+			":"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "code/support.py",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								374
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										373,
+										374
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										368,
+										369
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.511668611435,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 311.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pokemon.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"G:\\My Drive\\Code\\yaml-movie-list\\movie-list.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
